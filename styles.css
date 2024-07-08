@@ -1,0 +1,21 @@
+p
+{
+    color: red;
+}
+
+a
+{
+    text-decoration: none;
+}
+th
+{
+    color: brown;
+    font-style: italic;
+}
+
+table,th,td
+{
+    border: 2px solid;
+    width: 50%;
+    
+}
